@@ -3,11 +3,8 @@
 
 **`Desenvolvedor Frontend`**
 
- <div>
-   <a href="https://github.com/Antonio-Rafael-Silva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Rafael-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Github Stats"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Rafael-Silva&layout=compact&langs_count=6&theme=tokyonight" alt="Github Stats"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats-khaki-six-88.vercel.app/api?username=Antonio-Rafael-Silva&show_icons=true&theme=radical)
+
 
 ### Linguagens e Tecnologias
 
