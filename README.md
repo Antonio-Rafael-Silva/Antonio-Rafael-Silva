@@ -7,7 +7,7 @@ Olá, eu me chamo Antônio Rafael, sou estudante de desenvolvimento front-end e 
 
 Atualmente, estou buscando desenvolver minha lógica de programação atráves do Bootcamp GFT Start #6 - Lógica de Programação da [Digital Innovation One](https://www.dio.me/)
 
-![Antonio Rafael's GitHub stats](https://github-readme-stats-khaki-six-88.vercel.app/api?username=Antonio-Rafael-Silva&show_icons=true&theme=radical)
+![Antonio Rafael's GitHub stats](https://github-readme-stats-khaki-six-88.vercel.app/api?username=antoniorafaeldev&show_icons=true&theme=radical)
 
 
 ## Habilidades
